@@ -7,6 +7,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="poi-4.0" level="project" />
+    <orderEntry type="library" name="poi-4.01" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="commons-collections4-4.1" level="project" />
+    <orderEntry type="library" name="poi-ooxml-3.9" level="project" />
+    <orderEntry type="library" name="pom" level="project" />
   </component>
 </module>
-
